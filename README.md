@@ -50,5 +50,3 @@
 - [Portfolio](https://lordaizen1.github.io/porfolio)
 - [LinkedIn](https://linkedin.com/in/mohammadkaif007)
 
----
-⭐️ From [LordAizen1](https://github.com/LordAizen1)
