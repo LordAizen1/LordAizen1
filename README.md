@@ -33,10 +33,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Automation
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
-
 ## 🏆 Achievements
 - Selected for IBM QGSS 2024
 - Google's Advanced Data Analytics Certification
