@@ -35,7 +35,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 🏆 Achievements
-- Selected for IBM QGSS 2024
+- Participated in IBM QGSS 2024
 - Google's Advanced Data Analytics Certification
 - IBM Artificial Intelligence Fundamentals
 
