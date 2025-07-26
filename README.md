@@ -4,7 +4,7 @@
 - 🏫 BTech CSE student at IIIT Delhi '26
 - 💻 Passionate about Software Development and Data Science
 - 🌱 Currently exploring Data Analysis and Web Development
-- 🐈 Cat lover
+- 🐈 Cats are priceless
 
 ## 🛠️ Tech Stack
 
