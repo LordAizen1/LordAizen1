@@ -3,7 +3,7 @@
 ## 🎓 About Me
 - 🏫 BTech CSE student at IIIT Delhi '26
 - 💻 Passionate about Software Development and Data Science
-- 🌱 Currently exploring Data Analysis and Web Development
+- 🌱 Currently exploring Data Analysis and Machine Learning
 - 🐈 Cats are priceless
 
 ## 🛠️ Tech Stack
