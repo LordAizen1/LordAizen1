@@ -6,7 +6,7 @@
 - 🏫 BTech CSE student at IIIT Delhi '26
 - 💻 Passionate about Software Development and Data Science
 - 🌱 Currently exploring Data Analysis and Machine Learning
-- 🐈 Cats are priceless
+- 🐈 Cats are life
 
 ---
 
@@ -59,7 +59,7 @@
 ## 🌟 Featured Projects
 - [📱 Multi-Scan App](https://github.com/LordAizen1/Multi-Scan-App) — Android app with AI landmark detection
 - [⚡ U.S. Lightning Strikes Analysis](https://public.tableau.com/app/profile/md.kaif8168/viz/U_S_LightningStrikesStory/U_S_LightningStrikesStory) — Data visualization project
-- [✅ Task Board App](https://lordaizen1.github.io/task-board-app/) — Modern task management application
+- [✅ dashboard](https://github.com/LordAizen1/dashboard) — Modern beautiful dashboard
 
 ---
 
