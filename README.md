@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Md Kaif
 
-![Profile Views](https://komarev.com/ghpvc/?username=LordAizen1&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=LordAizen1&style=flat-square&color=blue)
+
 
 ## 🎓 About Me
 - 🏫 BTech CSE student at IIIT Delhi '26
