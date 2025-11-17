@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Connect with Me
-- 🌐 [Portfolio](https://lordaizen1.github.io/porfolio)
+- 🌐 [Portfolio](https://new-portfolio-tan-seven.vercel.app/))
 - 💼 [LinkedIn](https://linkedin.com/in/mohammadkaif007)
 - 🐙 [GitHub](https://github.com/LordAizen1)
 
