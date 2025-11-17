@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Kaif
 
-![Profile Views](https://counter.kuber.studio/LordAizen1/LordAizen1)
+[![Profile Views](https://counter.kuber.studio/LordAizen1/LordAizen1)](https://komarev.com/ghpvc/?username=LordAizen1&style=flat-square&color=blue)
 
 
 ## 🎓 About Me
