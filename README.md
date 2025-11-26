@@ -61,8 +61,8 @@
 
 ## 🌟 Featured Projects
 
-### 📱 [Multi-Scan App](https://github.com/LordAizen1/Multi-Scan-App)
-Android app with AI-powered landmark detection and scanning capabilities
+### 🎨 [ECS Visualizer](https://github.com/LordAizen1/ecs-visualizer)
+Interactive visualization tool for Entity Component System architecture
 
 ### ⚡ [U.S. Lightning Strikes Analysis](https://public.tableau.com/app/profile/md.kaif8168/viz/U_S_LightningStrikesStory/U_S_LightningStrikesStory)
 Interactive data visualization project analyzing lightning strike patterns across the United States
