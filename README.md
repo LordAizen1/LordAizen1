@@ -89,7 +89,7 @@ Modern, beautiful dashboard interface with responsive design
 ---
 
 <p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>💪 "It's over 9000! (lines of code)" — Vegeta</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
