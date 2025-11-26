@@ -6,15 +6,11 @@
 </p>
 
 ## 👨‍💻 About Me
-```typescript
-const kaif = {
-    education: "BTech CSE @ IIIT Delhi '26",
-    interests: ["Software Development", "Data Science", "Machine Learning"],
-    currentFocus: "Data Analysis & ML Models",
-    lifePhilosophy: "Cats are life 🐈",
-    funFact: "I debug code better with a cat on my lap"
-};
-```
+
+- 🎓 **BTech CSE** student at **IIIT Delhi '26**
+- 💻 Passionate about **Software Development** and **Data Science**
+- 🌱 Currently exploring **Data Analysis** and **Machine Learning**
+- 🐈 **Cats are life** (I debug code better with a cat on my lap)
 
 ---
 
@@ -58,50 +54,21 @@ const kaif = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordAizen1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordAizen1&layout=compact&theme=radical&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordAizen1&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordAizen1&theme=redical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordAizen1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📱 Multi-Scan App</h3>
-      <p align="center">
-        <a href="https://github.com/LordAizen1/Multi-Scan-App" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LordAizen1&repo=Multi-Scan-App&theme=radical" />
-        </a>
-      </p>
-      <p align="center">Android app with AI-powered landmark detection</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">✅ Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/LordAizen1/dashboard" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=LordAizen1&repo=dashboard&theme=radical" />
-        </a>
-      </p>
-      <p align="center">Modern, beautiful dashboard interface</p>
-    </td>
-  </tr>
-</table>
+### 📱 [Multi-Scan App](https://github.com/LordAizen1/Multi-Scan-App)
+Android app with AI-powered landmark detection and scanning capabilities
 
-<p align="center">
-  <a href="https://public.tableau.com/app/profile/md.kaif8168/viz/U_S_LightningStrikesStory/U_S_LightningStrikesStory">
-    <img src="https://img.shields.io/badge/⚡_U.S._Lightning_Strikes_Analysis-View_on_Tableau-E97627?style=for-the-badge" />
-  </a>
-</p>
+### ⚡ [U.S. Lightning Strikes Analysis](https://public.tableau.com/app/profile/md.kaif8168/viz/U_S_LightningStrikesStory/U_S_LightningStrikesStory)
+Interactive data visualization project analyzing lightning strike patterns across the United States
+
+### ✅ [Dashboard](https://github.com/LordAizen1/dashboard)
+Modern, beautiful dashboard interface with responsive design
 
 ---
 
