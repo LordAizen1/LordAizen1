@@ -1,23 +1,20 @@
 ### md kaif
 
-cs undergrad at iiit delhi, graduating 2026. somewhere between software engineering and data science, still figuring out which one i actually like more.
-
-into classical ai — mcts, search, heuristics, the kind of stuff people stopped writing about after 2015. also did [ibm's qgss](https://qiskit.org/events/summer-school) once and survived.
+cs undergrad at iiit delhi, finishing 8th sem. graduating 2026.
 
 ---
 
 #### now
 
-- finishing 7th sem
-- reading about game-tree search
-- shipping side projects when i should be studying
+- wrapping up final semester
+- shipping side projects
 
 #### things i've made
 
-- **[git-newspaper](https://github.com/LordAizen1/git-newspaper)** — your repo history, as a victorian-era newspaper. `npm` · 96★
-- **[scamp](https://github.com/LordAizen1/scamp-cat)** — a pixel-art cat for your terminal. `rust` · 19★
-- **[sys-gazette](https://github.com/LordAizen1/sys-gazette)** — system stats, in print
-- **[opencode-evermemos-plugin](https://github.com/LordAizen1/opencode-evermemos-plugin)** — persistent memory for opencode. `typescript`
+- **[git-newspaper](https://github.com/LordAizen1/git-newspaper)**: your repo history, as a victorian-era newspaper. `npm`, 96★
+- **[scamp](https://github.com/LordAizen1/scamp-cat)**: a pixel-art cat for your terminal. `rust`, 19★
+- **[sys-gazette](https://github.com/LordAizen1/sys-gazette)**: system stats, in print
+- **[opencode-evermemos-plugin](https://github.com/LordAizen1/opencode-evermemos-plugin)**: persistent memory for opencode. `typescript`
 
 #### stack
 
