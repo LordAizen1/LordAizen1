@@ -1,22 +1,29 @@
-### hi, i'm kaif 🐈
+### md kaif
 
-cs undergrad @ iiit delhi, graduating 2026.
+cs undergrad at iiit delhi, graduating 2026. somewhere between software engineering and data science, still figuring out which one i actually like more.
 
-building small, weird tools. lately into classical ai (mcts, search, heuristics) and rust.
+into classical ai — mcts, search, heuristics, the kind of stuff people stopped writing about after 2015. also did [ibm's qgss](https://qiskit.org/events/summer-school) once and survived.
 
 ---
 
-#### what i'm working on
+#### now
 
-- **[git-newspaper](https://github.com/LordAizen1/git-newspaper)** — turns your repo history into a victorian-era newspaper. `npm`, 96★
-- **[scamp](https://github.com/LordAizen1/scamp-cat)** — a pixel-art cat that lives in your terminal. `rust`, 19★
-- **[sys-gazette](https://github.com/LordAizen1/sys-gazette)** — system status, but make it print media
+- finishing 7th sem
+- reading about game-tree search
+- shipping side projects when i should be studying
+
+#### things i've made
+
+- **[git-newspaper](https://github.com/LordAizen1/git-newspaper)** — your repo history, as a victorian-era newspaper. `npm` · 96★
+- **[scamp](https://github.com/LordAizen1/scamp-cat)** — a pixel-art cat for your terminal. `rust` · 19★
+- **[sys-gazette](https://github.com/LordAizen1/sys-gazette)** — system stats, in print
+- **[ecs-visualizer](https://github.com/LordAizen1/ecs-visualizer)** — entity-component-system, but you can see it
 
 #### stack
 
-`python` `c++` `typescript` `javascript` · react, next, node · linux, docker
+`python` `c++` `typescript` `javascript` · react, next, node · linux, docker · pandas, numpy, sklearn when the mood strikes
 
-#### elsewhere
+#### find me
 
 [portfolio](https://new-portfolio-tan-seven.vercel.app/) · [linkedin](https://linkedin.com/in/mohammadkaif007)
 
