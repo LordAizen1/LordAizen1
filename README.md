@@ -11,8 +11,8 @@ cs undergrad at iiit delhi, finishing 8th sem. graduating 2026.
 
 #### things i've made
 
-- **[git-newspaper](https://github.com/LordAizen1/git-newspaper)**: your repo history, as a victorian-era newspaper. `npm`, 96★
-- **[scamp](https://github.com/LordAizen1/scamp-cat)**: a pixel-art cat for your terminal. `rust`, 19★
+- **[git-newspaper](https://github.com/LordAizen1/git-newspaper)**: your repo history, as a victorian-era newspaper. `npm`, 100★
+- **[scamp](https://github.com/LordAizen1/scamp-cat)**: a pixel-art cat for your terminal. `rust`, 21★
 - **[sys-gazette](https://github.com/LordAizen1/sys-gazette)**: system stats, in print
 - **[opencode-evermemos-plugin](https://github.com/LordAizen1/opencode-evermemos-plugin)**: persistent memory for opencode. `typescript`
 
