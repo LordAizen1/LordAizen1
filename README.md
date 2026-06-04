@@ -22,7 +22,7 @@ cs undergrad at iiit delhi, finishing 8th sem. graduating 2026.
 
 #### find me
 
-[portfolio](https://new-portfolio-tan-seven.vercel.app/) · [linkedin](https://linkedin.com/in/mohammadkaif007)
+[portfolio](https://www.mohammadkaif.me/) · [linkedin](https://linkedin.com/in/mohammadkaif007)
 
 ---
 
