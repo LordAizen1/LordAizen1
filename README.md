@@ -4,7 +4,6 @@ cs graduate from iiit delhi. class of 2026.
 ***
 
 #### now
-- open to work
 - shipping side projects
 - building small weird things that are hopefully useful
 
