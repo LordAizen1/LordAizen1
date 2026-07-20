@@ -5,7 +5,7 @@ cs graduate from iiit delhi. class of 2026.
 
 #### now
 - shipping side projects
-- building small weird things that are hopefully useful
+- building small weird things that are hopefully useful or a little fun 
 
 #### things i've made
 - **[git-newspaper](https://github.com/LordAizen1/git-newspaper)** — your repo history, as a victorian-era newspaper. `npm`, 116★
